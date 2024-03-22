@@ -1,4 +1,4 @@
-#!/usr/bin
+#!/usr/bin/env python3
 
 #this is a portscaner that will scan the ports of a given ip address
 
