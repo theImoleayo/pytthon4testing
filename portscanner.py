@@ -78,5 +78,12 @@ print("_" * 50)
 
 #this will print a closing message  
 
-print("Port scanning completed!")   
+print("Port scanning completed!")
 
+print("_" * 50,"\n")
+
+print(datetime.now())
+
+print("_" * 50)
+
+print("Exiting program...")
